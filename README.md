@@ -8,7 +8,7 @@
 ### 5-7 are Status Report, Save, and Reload
 ### 8-9 are Quit and Reset
 ### The user is able to choose their type of question and the numbers are randomly generated. They get three tries before they are given the menu again and the question is counted wrong. A Report is given at the end with everything they got right and wrong
-
+----------------------------------------------------------------------
 ### **What was Learned** 
 * Basic Interger Declairation
 * Nested while / for loops
